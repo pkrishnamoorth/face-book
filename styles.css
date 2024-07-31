@@ -1,0 +1,149 @@
+body,h1,h2,p{
+    margin: 0;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+}
+
+.main-div{
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+#logo{
+    font-size: 58px;
+    color: #0866ff;
+    padding: 20px 0px;
+}
+
+.signup-from{
+    background-color: #fff;
+    width: 430px;
+    border-radius: 8px;
+}
+
+.form-heading{
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+h2{
+    padding-bottom:6px ;
+}
+
+.input-box{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+input,select{
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.text{
+    display: flex;
+    width: 48%;
+}
+
+.text2{
+    display: flex;
+    width: 100%;
+}
+
+label{
+    font-size: 12px;
+    color: #606770;
+    margin-bottom: 10px;
+}
+
+.date-of-birth{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.three-box{
+    width: 31%;
+    display: flex;
+}
+
+.radio-botn{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ra-la{
+    padding-bottom: 0px;
+    font-size: 15px;
+}
+
+.radio-input{
+    margin: 0;
+    width: auto;
+    
+}
+
+.sm{
+    padding-top: 8px;
+    color: #606770;
+    font-size: 11px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo-btn{
+    padding: 20PX 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.Sign-Up-btn{
+    background-color:#00a400;
+    color: #fff;
+    padding: 8px 55px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.ang{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 8px;
+    padding-bottom: 15px;
+}
+
+.pp{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 25px;
+}
+
+.ppp{
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
